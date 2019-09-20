@@ -11,7 +11,7 @@
       <p><b>地址：天津市武清区石各庄镇敖东村</b></p>
     </td>
     <td width="25%">
-      <img src="/image.JPG" width="50%">
+      <img src="/image.JPG" width="100%">
     </td>
   </tr>
 </table>
